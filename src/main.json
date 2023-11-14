@@ -1,0 +1,16 @@
+{"login":[{"username":"angel","password":"Angel@123"},
+          {"username":"joshua","password":"Joshua@123"},
+          {"username":"isaac","password":"Isaac@123"}],
+
+  "product":[{"img":"https://christianbooksindia.s3-accelerate.amazonaws.com/item/eb2726ff-c55f-4fe2-8b25-ca6094bcddf5_572x900.jpg","name":"Jonathan Goforth","id":1, "price":75,"product":false, "icon":false,"show":true,"quantity":false,"ProQuantity":1},        
+            {"img":"https://christianbooksindia.s3-accelerate.amazonaws.com/item/C.T.Studd20Tam20A.jpg","name":"C.T.STUDD","id":2, "price":80,"product":false, "icon":false,"show":true,"quantity":false,"ProQuantity":1},
+            {"img":"https://christianbooksindia.s3-accelerate.amazonaws.com/item/a233f0e0-00a1-4dbf-aa80-2dcd9f44b7c7_551x850.jpg","name":"Glarintha","id":3, "price":95,"product":false, "icon":false,"show":true,"quantity":false,"ProQuantity":1},
+            {"img":"https://christianbooksindia.s3-accelerate.amazonaws.com/2021/04/Scan_Pic0144.jpg","name":"Gladis Ayilward","id":4, "price":50,"product":false, "icon":false,"show":true,"quantity":false,"ProQuantity":1},
+            {"img":"https://christianbooksindia.s3-accelerate.amazonaws.com/item/williamcareyt.jpeg","name":"William Carry","id":5, "price":40,"product":false, "icon":false,"show":true,"quantity":false,"ProQuantity":1},
+            {"img":"https://christianbooksindia.s3-accelerate.amazonaws.com/2021/04/my20encounter20with20truth20tamil201.jpg","name":"Faith","id":6, "price":60,"product":false, "icon":false,"show":true,"quantity":false,"ProQuantity":1},
+            {"img":"https://christianbooksindia.s3-accelerate.amazonaws.com/item/Scan_Pic0003b.jpeg","name":"Sathu Sundar Singh", "id":7, "price":70,"product":false, "icon":false,"show":true,"quantity":false,"ProQuantity":1},
+            {"img":"https://christianbooksindia.s3-accelerate.amazonaws.com/item/samuel20morrist.jpeg","name":"Samuel", "id":8, "price":80,"product":false, "icon":false,"show":true,"quantity":false,"ProQuantity":1},
+            {"img":"https://christianbooksindia.s3-accelerate.amazonaws.com/item/Praying20JHTAMIL01.jpeg","name":"Praying Hyde", "id":9, "price":90,"product":false, "icon":false,"show":true,"quantity":false,"ProQuantity":1}
+        ]        
+        
+        }
