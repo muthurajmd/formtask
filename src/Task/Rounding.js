@@ -18,7 +18,7 @@ const Routing =()=>{
      console.log(state)
      return(
         <StateContext.Provider value={{state,dispatch}}>        
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
         <Route path="/" element={<Form/>}> </Route>
         <Route path="/table" element={<Formsecond/>}> </Route>
