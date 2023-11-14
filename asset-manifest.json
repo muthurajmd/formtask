@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/formtask/static/css/main.073c9b0a.css",
+    "main.js": "/formtask/static/js/main.96a9ebff.js",
+    "static/js/787.21932294.chunk.js": "/formtask/static/js/787.21932294.chunk.js",
+    "static/media/logo.svg": "/formtask/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/formtask/index.html",
+    "main.073c9b0a.css.map": "/formtask/static/css/main.073c9b0a.css.map",
+    "main.96a9ebff.js.map": "/formtask/static/js/main.96a9ebff.js.map",
+    "787.21932294.chunk.js.map": "/formtask/static/js/787.21932294.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.96a9ebff.js"
+  ]
+}
