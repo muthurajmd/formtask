@@ -10,6 +10,8 @@ import { reducer } from "./Reducer"
 // import Iconcard from "./Fav";
 import Form from "./Form";
 import Formsecond from "./Formsecond";
+import { Home } from "./Home";
+import { Detail } from "./Details";
 const Routing =()=>{
 
     const [state,dispatch] = useReducer(reducer,initialState)
@@ -20,8 +22,10 @@ const Routing =()=>{
         <StateContext.Provider value={{state,dispatch}}>        
         <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
-        <Route path="/" element={<Form/>}> </Route>
-        <Route path="/table" element={<Formsecond/>}> </Route>
+        <Route path="/" element={<Home/>}> </Route>
+        <Route path="/details" element={<Detail/>}> </Route>
+        {/* <Route path="/" element={<Form/>}> </Route>
+        <Route path="/table" element={<Formsecond/>}> </Route> */}
         {/* <Route path="/add" element={<AddtoCard/>}> </Route>
         <Route path="/iconpage" element={<Iconcard/>}> </Route> */}
         </Routes>

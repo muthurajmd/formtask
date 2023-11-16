@@ -1,0 +1,4 @@
+input:focus-visible{
+   border: none;
+   outline-color: blue;
+}
