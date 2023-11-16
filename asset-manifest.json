@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/formtask/static/css/main.53fb884a.css",
-    "main.js": "/formtask/static/js/main.f5432243.js",
+    "main.js": "/formtask/static/js/main.f041c94b.js",
     "static/js/787.21932294.chunk.js": "/formtask/static/js/787.21932294.chunk.js",
     "static/media/logo.svg": "/formtask/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/formtask/index.html",
     "main.53fb884a.css.map": "/formtask/static/css/main.53fb884a.css.map",
-    "main.f5432243.js.map": "/formtask/static/js/main.f5432243.js.map",
+    "main.f041c94b.js.map": "/formtask/static/js/main.f041c94b.js.map",
     "787.21932294.chunk.js.map": "/formtask/static/js/787.21932294.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53fb884a.css",
-    "static/js/main.f5432243.js"
+    "static/js/main.f041c94b.js"
   ]
 }
